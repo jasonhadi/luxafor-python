@@ -21,6 +21,12 @@ Credit to gist by [dave-irvine](https://gist.github.com/dave-irvine/dbec2584e750
 3. Python 2.7+
 4. [PyWinUSB](https://pypi.python.org/pypi/pywinusb/) (installable via pip)
 
+### Mac
+```
+brew install libusb-compat
+pip install hidapi
+```
+
 ## Confirmed Working Operating Systems
 - Windows 10
 - Ubuntu 15.10
